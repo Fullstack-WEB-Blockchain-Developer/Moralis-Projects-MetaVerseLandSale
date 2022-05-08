@@ -4,6 +4,7 @@
 
 ## Requirements
 
+- Moralis Server details.
 - Basic Javascript, HTML and CSS.
 - Basic understanding of NFTs.
 
