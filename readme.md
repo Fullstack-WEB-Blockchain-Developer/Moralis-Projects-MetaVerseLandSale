@@ -1,6 +1,6 @@
 # Your Own Metaverse
 
-<img src="./img/MoraVille.png">
+<img src="./Frontend/static/img/MoraVille.png">
 
 ## Requirements
 
