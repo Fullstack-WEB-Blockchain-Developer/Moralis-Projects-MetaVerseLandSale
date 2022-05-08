@@ -1,6 +1,6 @@
 //Initializing constants
-const serverUrl = "https://tleqtzczxgat.usemoralis.com:2053/server";
-const appId = "EiAT1szhnDg7WJ8U0ASqsUrEspHbfKaoRfyCJ5k7";
+const serverUrl = "";
+const appId = "";
 
 //Graphics constants
 // - map management constants

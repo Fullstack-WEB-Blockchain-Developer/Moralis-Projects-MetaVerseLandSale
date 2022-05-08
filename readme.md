@@ -1,5 +1,7 @@
 # Your Own Metaverse
 
+<img src="./img/demoPic.png">
+
 ## Requirements
 
 - Basic Javascript, HTML and CSS.
@@ -13,4 +15,3 @@
 ## Run a web server under Frontend by the following command
 
 ## Open Live server from index.html to Run
-
